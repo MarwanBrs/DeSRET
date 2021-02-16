@@ -47,4 +47,4 @@ import random
 import requests
 
 
-print('Install Time PRANAS: %.2f seconds' %lap)
+print('Execution of this command is done: Hello World!')
